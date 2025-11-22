@@ -74,9 +74,9 @@ Enabled rollback & versioning.
 
 🔗 Connect With Me
 
-LinkedIn: linkedin.com/in/rajat-bhandakkar
+LinkedIn: www.linkedin.com/in/rajat-bhandakkar-ab3293392
 
-GitHub: github.com/rajatbhandakkar
+GitHub: https://github.com/rajataws-30
 
 Email: rajatbhandakkar11@gmail.com
 
